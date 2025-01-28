@@ -246,3 +246,6 @@ Bu öneriler, CRM stratejileri için temel aksiyonları belirlerken, müşteri m
 
 
 
+
+
+
