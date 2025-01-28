@@ -183,7 +183,56 @@ Cross-Validation: 5-fold çapraz doğrulama sonuçları, modelin genel doğrulu�
 
 
 
+Müşteri Segmentasyonu ve CRM Stratejileri - Özet Rapor
 
+1. Tenure (Müşteri Süresi) Analizi
+0-3 Ay Arası Müşteriler (Kelebek Müşteri Grubu)
+Bu grup, kampanyalar veya indirimler nedeniyle geçici olarak abone olmuş ve churn oranı yüksek olabilir.
+Sadık müşterilere dönüşüm sağlamak için deneyim ve ilişki yönetimi geliştirilmelidir.
+70+ Ay Arası Müşteriler (Kemik Kitle)
+Bu grup, uzun vadeli sadık müşterilerdir.
+Özel ödüller, öncelikli hizmet ve kişiselleştirilmiş deneyimler ile korunmalıdır.
+3. TotalCharges ve MonthlyCharges
+Düşük Ödeme Tutarları (~20 TL)
+Genellikle fiyat duyarlı ve kampanya takibi yapan müşteriler.
+Bu gruptan sadık müşteri dönüşümü için yükseltme, çapraz satış ve özel teklifler gereklidir.
+Yüksek MonthlyCharges ve TotalCharges
+Bu grup genellikle yüksek maliyetli hizmetler alıyor ancak memnuniyetsizlik nedeniyle churn oranı yüksek olabilir.
+Değer odaklı stratejiler, müşteri memnuniyeti ve hizmet özelleştirmeleri bu gruptaki kullanıcıları elde tutmada kritik rol oynar.
+4. Ödeme Yöntemleri
+Electronic Check
+Elektronik ödeme yöntemine olan ilgi arttıkça, bu ödeme seçeneği üzerinden kampanyalar ve özel teklifler yapılabilir.
+5. İnternet Servisi
+Fiber Optic
+Yüksek fiyatla birlikte gelen sadakat ve memnuniyet sorunları olabilir.
+Bu grup için fiyat-performans stratejileri ve müşteri desteği önemlidir.
+DSL
+Daha stabil ve düşük churn oranına sahip.
+Bu grup için düşük maliyetli hizmetler ve sürekli değer sağlama odaklı stratejiler önerilir.
+6. Churn (Ayrılma) Analizi
+Churn = No (Sadık Müşteriler)
+Bu grup uzun vadeli ilişkiler için önemlidir.
+Müşterilere sadakat ödülleri, özel teklifler ve kişiselleştirilmiş hizmetler sunulabilir.
+Churn = Yes (Kaybedilen Müşteriler)
+Yüksek MonthlyCharges’a sahip, memnuniyetsiz müşteriler.
+Bu gruptaki kullanıcıları elde tutmak için fiyat-performans oranı iyileştirilmeli ve daha fazla kişiselleştirilmiş hizmet sunulmalıdır.
+7. Cinsiyet ve Internet Servisi İlişkisi
+Cinsiyet Dağılımı
+Erkek ve kadın kullanıcılar arasında eşit bir dağılım gözlemlenmiştir.
+Churn oranları açısından anlamlı bir farklılık bulunmamaktadır.
+Fiber Optic ve DSL Kullanımı
+Fiber optic müşterileri yüksek churn oranına sahipken, DSL kullanıcıları daha düşük churn oranlarına sahip.
+Bu gruplara yönelik ayrı stratejiler geliştirilmelidir.
+8. Yaş ve Teknoloji Kullanımı
+Yaşlı Müşteriler (SeniorCitizen = 1)
+Daha düşük internet ve telefon hizmeti kullanımı, özellikle Fiber Optic hizmetine olan düşük talep.
+Bu grup için daha basit kurulumlar ve eğitimli destek hizmetleri sunulabilir.
+Sonuç ve Öneriler:
+Kelebek Müşteriler (0-3 Ay): Yüksek churn oranına sahip bu grup için deneyim ve ilişki yönetimi geliştirilmelidir. Kampanya sonrası sadakat sağlanabilir.
+Kemik Kitle (70+ Ay): Bu grup sadık müşterilerdir. Onlara özel ödüller ve hizmetler sunulmalı, uzun vadeli ilişkiler pekiştirilmelidir.
+Yüksek Ödeme Müşterileri: Değer odaklı stratejilerle bu gruptaki müşterilerin memnuniyeti artırılabilir.
+Churn Stratejisi: Churn oranı yüksek müşteriler için kişiselleştirilmiş teklifler ve müşteri deneyimi iyileştirmeleri önemlidir.
+Bu öneriler, CRM stratejileri için temel aksiyonları belirlerken, müşteri memnuniyetini artırma ve sadakati pekiştirme amacını taşımaktadır.
 
 
 
